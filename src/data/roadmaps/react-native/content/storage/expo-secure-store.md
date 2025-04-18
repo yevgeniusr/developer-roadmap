@@ -11,7 +11,7 @@ expo install expo-secure-store
 Then, import the module into your app:
 
 ```javascript
-import * as SecureStore from 'expo-secure-store';
+import * as SecureStore from 'developer-roadmap/src/data/roadmaps/react-native/content/storage/expo-secure-store';
 ```
 
 ## Saving Data

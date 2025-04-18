@@ -11,7 +11,7 @@ expo install expo-file-system
 First, import the `expo-file-system` module:
 
 ```javascript
-import * as FileSystem from 'expo-file-system';
+import * as FileSystem from 'developer-roadmap/src/data/roadmaps/react-native/content/storage/expo-file-system';
 ```
 
 Here are some examples of how to use the Expo File System:
